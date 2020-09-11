@@ -15,7 +15,7 @@ Creadores:
 - José Adolfo Guzmán Solis  -  GS18030
 - Carlos Iván Romero Hernández - RH18030
 - José Alejandro Ibáñez Martínez - IM18002
-- Carlos Alfonso Lemus Rodezno - LR1800
+- Carlos Alfonso Lemus Rodezno - LR18001
 - Marlon Salomon Coreas Villanueva - CV18035
 
 
