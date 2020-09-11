@@ -1,7 +1,7 @@
 # Zeus-Framework
 Este es el enlace de descarga para el archivo css que contiene las clases de nuestro Framework Zeus
 
-Técnicas de Programación para Internet - Universida de El Salvador (FMO)
+##Headings Técnicas de Programación para Internet - Universida de El Salvador (FMO)
 
 Creadores: 
 José Adolfo Guzmán Solis - GS18030
